@@ -20,7 +20,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
  - Abra uma pull request no GitHub.
   
 ## 💜Agradecimentos
-Obrigado ao site <a href="https://judge.beecrowd.com/">Beecrowd</a> pelos desafios que ajudaram a fixar e aprimorar meus conhecimentos
+Obrigado ao site <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">Beecrowd</a> pelos desafios que ajudaram a fixar e aprimorar meus conhecimentos
 
 ## 👩🏽‍💻Autora
 
