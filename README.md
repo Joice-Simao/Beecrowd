@@ -9,7 +9,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
 - Python
 	
 ## 🏆 Exercícios Resolvidos
-- <a href="https://github.com/Joice-Simao/Dojo-Desafios/blob/main/src/listaDesafios/AnoBissexto.java">Hello World</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">Hello World</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
@@ -20,7 +20,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
  - Abra uma pull request no GitHub.
   
 ## 💜Agradecimentos
-Obrigado ao site <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">Beecrowd</a> pelos desafios que ajudaram a fixar e aprimorar meus conhecimentos
+Obrigado ao site <a href="https://beecrowd.com/">Beecrowd</a> pelos desafios que ajudaram a fixar e aprimorar meus conhecimentos
 
 ## 👩🏽‍💻Autora
 
