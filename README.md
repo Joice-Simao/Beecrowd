@@ -11,6 +11,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
 ## 🏆 Exercícios Resolvidos
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">Hello World</a>
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleSum">Simple Sum</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/ExtremelyBasic.py">Extremely Basic</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
