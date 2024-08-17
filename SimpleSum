@@ -8,13 +8,13 @@ Output
 Print the message "SOMA" with all the capital letters, with a blank space before and after the equal signal followed by the corresponding value to the sum of A and B. Like all the problems, don't forget to print the end of line, otherwise you will receive "Presentation Error"
 """
 
-a = input('Digite o primeiro número: ')
+a = input()
 
-b = input('Digite o segundo número: ')
+b = input()
 
 a = int(a)
 b = int(b)
 
 soma = a + b
 
-print("SOMA = ",soma)
+print("SOMA =",soma)
