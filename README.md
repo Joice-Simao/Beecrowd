@@ -14,6 +14,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/ExtremelyBasic.py">Extremely Basic</a>
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/AreaCircle.py">Area of a Circle</a>
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleProduct.py">Simple Product</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average1.py">Average 1</a>
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
