@@ -1,4 +1,6 @@
-<h1 align="center">Beecrowd</h1>
+<div align="center">
+	<a href="https://imgur.com/Y01pItv"><img src="https://i.imgur.com/Y01pItv.png" title="Beecrowd" /></a>
+</div>
 
 ## 📃Sobre 
 <p>
@@ -38,5 +40,8 @@ Obrigado ao site <a href="https://beecrowd.com/">Beecrowd</a> pelos desafios que
 ![feito](https://img.shields.io/badge/Feito%20com-%E2%9D%A4-red.svg?style=flat)
 
 <p>Entre em contato!</p>
+
 <a href="https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"></a>
 <a href = "mailto:joice.simao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "https://judge.beecrowd.com/en/profile/1030277"><img src="https://img.shields.io/badge/Beecrowd-8B89CC?style=for-the-badge&logoColor=white" target="_blank"></a>
+
