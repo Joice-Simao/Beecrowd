@@ -19,6 +19,7 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average1.py">Average 1</a>
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average2.py">Average 2</a>
 - <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Difference.py">Difference</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Salary.py">Salary</a>
 
 
 ## 🤝🏽Contribuição
