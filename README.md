@@ -11,15 +11,15 @@ Este repositório reúne os desafios concluídos no site Beecrowd. Os exercício
 - Python
 	
 ## 🏆 Exercícios Resolvidos
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">Hello World</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleSum">Simple Sum</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/ExtremelyBasic.py">Extremely Basic</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/AreaCircle.py">Area of a Circle</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleProduct.py">Simple Product</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average1.py">Average 1</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average2.py">Average 2</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Difference.py">Difference</a>
-- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Salary.py">Salary</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/HelloWord.py">1000 - Hello World</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleSum">1001 - Simple Sum</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/ExtremelyBasic.py">1002 - Extremely Basic</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/AreaCircle.py">1003 - Area of a Circle</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/SimpleProduct.py">1004 - Simple Product</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average1.py">1005 - Average 1</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Average2.py">1006 - Average 2</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Difference.py">1007 - Difference</a>
+- <a href="https://github.com/Joice-Simao/Beecrowd/blob/main/Salary.py">1008 - Salary</a>
 
 
 ## 🤝🏽Contribuição
