@@ -9,7 +9,6 @@ The input file contains 2 integer numbers and 1 value of floating point, represe
 Output
 Print the number and the employee's salary, according to the given example, with a blank space before and after the equal signal.
 """
-<<<<<<< HEAD
 
 employeer_number = input ()
 worked_hours = input ()
@@ -24,5 +23,3 @@ salary = worked_hours * received_per_hour
 print("NUMBER =",employeer_number)
 
 print(f"SALARY = U$ {salary:.2f}")
-=======
->>>>>>> 8e91fe728c57bf4550a0cb67fbd5f37e66c7277e

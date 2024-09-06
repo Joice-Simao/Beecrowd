@@ -12,13 +12,15 @@ Present the message "A=" followed by the value of the variable, as in the exampl
  will receive "Presentation Error".
 """
 
-n = 3.14159
+from _decimal import Decimal
 
-r = float(input())
+raio = Decimal(input())
 
-a = (n*(r*r))
+pi = 3.14159
 
-message = f"A={a:.4f}"
+area = Decimal(pi) * (raio ** 2)
 
-print(message)
+area
+
+print(f'A={area:.4f}')
     
