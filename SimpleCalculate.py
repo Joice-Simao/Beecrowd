@@ -15,14 +15,16 @@ The output file must be a message like the following example where "Valor
  symbol. The value must be presented with 2 digits after the point.
 """
 
-codigo_produto_1 = input("Digite o código do produto 1: ")
-unidades_produto_1 = input("Digite o número de unidades do produto 1: ")
-preco_unidade_produto_1 = input("Digite o preço de uma unidade do produto 1: ")
+linha1 = input().split()
+codigo_produto_1 = int(linha1[0])
+unidades_produto_1 = int(linha1[1])
+preco_unidade_produto_1 = float(linha1[2])
 
-codigo_produto_2 = input("Digite o código do produto 2: ")
-unidades_produto_2 = input("Digite o número de unidades do produto 2: ")
-preco_unidade_produto_2 = input("Digite o preço de uma unidade do produto 2: ")
+linha2 = input().split()
+codigo_produto_2 = int(linha2[0])
+unidades_produto_2 = int(linha2[1])
+preco_unidade_produto_2 = float(linha2[2])
 
-valor_a_pagar = float((unidades_produto_1 * preco_unidade_produto_1) + (unidades_produto_2 * preco_unidade_produto_2))
+valor_a_pagar = (unidades_produto_1 * preco_unidade_produto_1) + (unidades_produto_2 * preco_unidade_produto_2)
 
-print(f"Valor a pagar: R$ {valor_a_pagar:.2f}")
+print(f"VALOR A PAGAR: R$ {valor_a_pagar:.2f}")
